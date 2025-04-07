@@ -1,0 +1,3 @@
+Produto: oculos		Quantidade: 6		Preço: R$ 50,00
+Produto: relogio		Quantidade: 6		Preço: R$ 150,67
+Produto: mala		Quantidade: 59		Preço: R$ 258,74
